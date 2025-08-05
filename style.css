@@ -79,7 +79,7 @@ body {
     padding: 10px;
 }
 .topics__container{
-    display: flex;
+    display: flex; 
     flex-wrap: wrap;
     margin-top: 10px;
     gap: 10px;
