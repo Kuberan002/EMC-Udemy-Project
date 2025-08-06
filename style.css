@@ -149,6 +149,12 @@ body {
     flex-grow: 1;
     flex-basis: 25%;
 }
+.topics__container p:hover{
+    color:white;
+    background-color:#a435f0;
+    
+}
+
 
 .popular {
     padding: 10px;
@@ -177,7 +183,7 @@ body {
     margin: 20px;
 }
 
-.footer-two {
+.footer__two {
     display: flex;
     justify-content: space-between;
     align-items: center;
