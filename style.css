@@ -231,5 +231,8 @@ body {
         .course-card{
             flex-basis: 40%;
         }
+        .mylearning__popup{
+            font-size: 8px;
+        }
     }
  }
